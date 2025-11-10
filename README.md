@@ -32,6 +32,8 @@ Algorithm-
 
 2.[Decrement the top pointer]
             top=top-1
+            
+
 3. Return the deleted item from the stack
     [Finished]
 
